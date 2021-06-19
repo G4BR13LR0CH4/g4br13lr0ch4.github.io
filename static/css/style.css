@@ -1,0 +1,92 @@
+.navbar {
+    background-color:#85C3FF;
+}
+
+.navbar img {
+    width: 60px;
+    height: 60px;
+    cursor:pointer;
+}
+
+.txtnome {
+    font-size: 83pt;
+    font-weight: bold;
+    color: #223333;
+}
+.txtnv1 {
+    font-size: 40pt;
+    font-weight: bold;
+    color: #223333;
+}
+
+.txtnv2 {
+    font-size: 36pt;
+    font-weight: bold;
+    color: #223333;
+}
+
+.txtnv3 {
+    font-size: 24pt;
+    color: #223333;
+}
+
+.txtnv4 {
+    font-size: 16pt;
+    color: #223333;
+}
+
+.txtnav {
+    font-size: 24pt;
+    font-weight: bold;
+    color: #223333;
+}
+
+.btn-icon {
+    width: 100px;
+    height: 100px;
+    margin: 100px 20px 0 0;
+
+    border-radius: 100px;
+    background-color:#85C3FF;
+    float: left;
+}
+
+.btn-icon img {
+    width: 95px;
+    height: 95px;
+    padding: 5px 0 0 5px;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+    margin: 50px 20px 0 50px;
+}
+
+.colapse {
+    background-color: #85C3FF;
+}
+
+#idPginicial {
+    width: 100%;
+    height: 100%;
+    margin-top: 200px;
+}
+
+#idPgexp {
+    margin-top: 400px;
+}
+
+#idPgedu {
+    margin-top: 200px;
+}
+
+#idPgskills {
+    margin-top: 200px;
+}
+
+footer {
+    background-color: #85C3FF;
+    margin-top: 100px;
+    padding: 20px 0 10px 0;
+}
